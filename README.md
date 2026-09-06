@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Atul Vishwakarma  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mark2-002&color=blue&style=flat-square)  
-![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=500&lines=Firmware+Engineer;Embedded+Systems+%26+IoT;BLE+%7C+Zephyr+RTOS;Robotics+Firmware+Engineer+in+Progress...)
+![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=500&lines=Firmware+Engineer;Embedded+Systems+%26+IoT;BLE+%7C+Zephyr+RTOS)
 
 ---
 
