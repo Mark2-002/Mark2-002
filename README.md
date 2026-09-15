@@ -29,12 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark2-002&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark2-002&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mark2-002&theme=tokyonight)  
-
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atul%20Vishwakarma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/firmware-eng-atul-vishwakarma/)  
