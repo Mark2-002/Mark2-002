@@ -21,7 +21,7 @@
 
 ---
 
-## 📂 Projects
+## 📂 Projects - Many of them is Private 
 - 🔧 **FrizMee Prototype** — Embedded IoT device prototype  
 - ⌚ **Woop‑Band‑Tracker** — Wearable tracker firmware  
 - 📡 **Machine‑to‑Machine DFU over BLE** — Implemented using nRF52840 & nRF54L15  
